@@ -6,7 +6,7 @@ About 99% of the 'car' column is empty, so it doesn't provide useful information
 **Duplicate Data:**
 There are 74 duplicate rows in the dataset. Since this is a survey, it's normal to have some duplicate responses. We kept the duplicates because each response is valuable for the analysis.
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 **Summary of Findings**
 
 **Overall:**
@@ -22,7 +22,7 @@ People used coupons in about 57 out of every 100 cases.
 * Drivers under 30 who go to bars often used the coupon 72% of the time.
 * People who eat at cheap restaurants more than 4 times a month and earn less than $50K a year used the bar coupon 45% of the time.
 * 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 **Hypotheses**
 
 Based on what we observed, here are some ideas about why certain drivers accepted bar coupons:
@@ -42,7 +42,7 @@ Drivers who often eat at cheaper restaurants and earn less than $50,000 a year a
 **Other Drivers**
 Drivers outside of these groups are less likely to accept bar coupons. This shows that certain behaviors and personal traits—like not going to bars often—play a big role in whether someone uses a coupon.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 **Recommended Next Steps:**
 **Summary: Recommended Actions to Improve Coupon Campaigns**
 Based on the analysis of drivers who accept bar coupons and those who turn down Carry Out & Take Away coupons, here are some practical steps to better understand the data and improve future campaigns:
