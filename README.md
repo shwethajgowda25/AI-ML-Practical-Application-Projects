@@ -1,11 +1,20 @@
+**UC Berkeley - AI/ML Practical Application 1**
+
+**Problem Statement : Will the customer accept the coupon?**
+
+**Project Overview:**
+The main goal of this project was to use charts and statistics/probability capabilities to understand the difference between customers who accepted a driving coupon and those who didn’t.
+
+The project was done using Python, with the help of the following libraries: pandas, seaborn, matplotlib, numpy and autoviz.
+All the details—like the code, graphs, notes, and findings—are available in the Jupyter Notebook available in the code repo.
+
 **Exploratory Data Analysis(EDA):**
 **Data Quality Issues Identified:**
 **Missing Data:**
-About 99% of the 'car' column is empty, so it doesn't provide useful information for the analysis. Other columns only have a small number of missing values (less than 2%), which won’t have a big impact on the overall results. Therefore, the ‘car’ column was removed from the dataset.
+About 99% of the 'car' column is empty, so it doesn't provide useful information for the analysis. Other columns only have a small number of missing values (less than 2%), which won’t have a big impact on the overall results. Therefore, the ‘car’ column was removed from the dataset, further while analyzing Bar coupon related data.
 
 **Duplicate Data:**
-There are 74 duplicate rows in the dataset. Since this is a survey, it's normal to have some duplicate responses. We kept the duplicates because each response is valuable for the analysis.
-
+There are 74 duplicate rows in the dataset. From the data overview, we can assume that this was a surey data and hence, it's normal to have some duplicate responses. We kept the duplicates as the count of duplicates is almost neglibile and wont create much outliers.
 
 **Summary of Findings**
 
